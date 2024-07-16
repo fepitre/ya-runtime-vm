@@ -6,7 +6,7 @@ on:
       - pre-rel-*
 
 env:
-  self-test-img_tag: v0.1.4
+  self-test-img_tag: v0.2.0a0
   self-test-img_repository: golemfactory/ya-self-test-img
   rust_stable: 1.70.0
 
